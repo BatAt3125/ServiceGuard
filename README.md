@@ -62,4 +62,4 @@ If you encounter any issues or have questions regarding service management:
 ---
 
 ### License
-This project is licensed under the GIT v3 License - see the `LICENSE` file for details.
+This project is licensed under the GPL v3 License - see the `LICENSE` file for details.
