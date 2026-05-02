@@ -1,7 +1,7 @@
 # ServiceGuard - Windows Service Manager
 
 A Python-based desktop application built with **PyQt6** designed to manage Windows services with a focus on high-end UI/UX and system safety. This tool allows users to monitor, start, and stop services through a modern, refined interface that prioritizes visual clarity and prevents accidental system instability.
-
+More information - https://serviceguard.42web.io/
 ---
 
 ### Key Features
